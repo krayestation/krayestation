@@ -1,4 +1,4 @@
-## Hi there 👋
+### yo
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krayestation/krayestation/output/github-contribution-grid-snake-dark.svg">
