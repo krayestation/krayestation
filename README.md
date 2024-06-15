@@ -1,4 +1,10 @@
-### yo
+### under construction 🏗️
+
+![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
+![](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=000)
+![](https://img.shields.io/badge/-Node.js-%62fc03?style=flat-square&logo=Node.js&logoColor=fff)
+![](https://img.shields.io/badge/-React%20Native-%2361DAFB?style=flat-square&logo=React&logoColor=000)
+![](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&style=flat-square&labelColor=white&logoColor=https://img.shields.io/badge/-Flutter-02569B?logo=flutter&style=flat-square&labelColor=02569B)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krayestation/krayestation/output/github-contribution-grid-snake-dark.svg">
