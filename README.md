@@ -1,4 +1,4 @@
-### under construction 🏗️
+### UI/UX designer based in London.
 
 ![](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
 ![](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=React&logoColor=000)
